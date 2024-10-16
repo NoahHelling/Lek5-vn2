@@ -1,0 +1,33 @@
+
+.background{
+    background-image: url(Uppgift_2_Bilder/snow_winter_trees.jpg);
+    min-height: 500px;
+    border: solid red;
+    border-radius: 15px;
+    
+}
+
+.Top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border:solid red;
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 15px;
+
+}
+.top_bilder{
+    max-height: 50px;
+    height: 150px;
+    padding-block: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    width:auto;
+    text-align: center;
+    border: solid black;
+    border-radius: 15px;
+    
+}
+
